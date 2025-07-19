@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import './App.css';
 
 // Import your components here
 // import Button from './components/Button';
